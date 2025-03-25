@@ -69,4 +69,4 @@ Here are some of my best works:
 
 ---
 
-🌟 **"Code with passion, learn with curiosity!"** 🚀  
+🌟 **"Software and cathedrals are much the same, first we build them, then we pray."** 🚀  
