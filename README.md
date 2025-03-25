@@ -7,7 +7,8 @@
 ---
 
 ## 📌 **About Me**
-🎓 **BS in Information Technology Student** 
+🎓 **BS in Information Technology Student**
+
 💻 Passionate about **building software solutions** and **mobile systems**  
 📍 Based in **Iloilo, Philippines**  
 🌟 Currently learning **C#, Laravel | Web & Mobile Development | UI/UX**  
