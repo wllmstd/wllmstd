@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Stad Osuyos! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&width=600&lines=🚀+Full-Stack+Developer+Intern;💡+Innovator+%7C+Tech+Explorer;🎓+BSIT+Graduating+Student+%7C+GECO+Asia;📌+Iloilo%2C+Philippines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&width=600&lines=🚀+Software+Developer;💡+Innovator+%7C+Tech+Explorer;🎓+BSIT+Graduating+Student;📌+Iloilo%2C+Philippines" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ Here are some of my best works:
 <p align="center">
   <a href="https://linkedin.com/in/johnwillemstadosuyos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/wllmstd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://https://stadosuyos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://stadosuyos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
