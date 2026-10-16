@@ -7,7 +7,7 @@
 ---
 
 ## 📌 **About Me**
-🎓 **BS in Information Technology Student**
+🎓 **BS in Information Technology Graduate**
 
 💻 Passionate about **building software solutions** and **mobile systems**  
 📍 Based in **Iloilo, Philippines**  
